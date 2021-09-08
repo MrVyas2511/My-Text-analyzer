@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/mrvyas2511/My-Text-analyzer/static/css/main.c87c6974.chunk.css",
-    "main.js": "/mrvyas2511/My-Text-analyzer/static/js/main.ae3c14d4.chunk.js",
-    "main.js.map": "/mrvyas2511/My-Text-analyzer/static/js/main.ae3c14d4.chunk.js.map",
-    "runtime-main.js": "/mrvyas2511/My-Text-analyzer/static/js/runtime-main.616ba6c5.js",
-    "runtime-main.js.map": "/mrvyas2511/My-Text-analyzer/static/js/runtime-main.616ba6c5.js.map",
-    "static/js/2.2bef21de.chunk.js": "/mrvyas2511/My-Text-analyzer/static/js/2.2bef21de.chunk.js",
-    "static/js/2.2bef21de.chunk.js.map": "/mrvyas2511/My-Text-analyzer/static/js/2.2bef21de.chunk.js.map",
-    "static/js/3.e33b8d7a.chunk.js": "/mrvyas2511/My-Text-analyzer/static/js/3.e33b8d7a.chunk.js",
-    "static/js/3.e33b8d7a.chunk.js.map": "/mrvyas2511/My-Text-analyzer/static/js/3.e33b8d7a.chunk.js.map",
-    "index.html": "/mrvyas2511/My-Text-analyzer/index.html",
-    "static/css/main.c87c6974.chunk.css.map": "/mrvyas2511/My-Text-analyzer/static/css/main.c87c6974.chunk.css.map",
-    "static/js/2.2bef21de.chunk.js.LICENSE.txt": "/mrvyas2511/My-Text-analyzer/static/js/2.2bef21de.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/mrvyas2511/My-Text-analyzer/static/media/logo.6ce24c58.svg"
+    "main.css": "/My-Text-analyzer/static/css/main.c87c6974.chunk.css",
+    "main.js": "/My-Text-analyzer/static/js/main.ae3c14d4.chunk.js",
+    "main.js.map": "/My-Text-analyzer/static/js/main.ae3c14d4.chunk.js.map",
+    "runtime-main.js": "/My-Text-analyzer/static/js/runtime-main.1b3f993a.js",
+    "runtime-main.js.map": "/My-Text-analyzer/static/js/runtime-main.1b3f993a.js.map",
+    "static/js/2.2bef21de.chunk.js": "/My-Text-analyzer/static/js/2.2bef21de.chunk.js",
+    "static/js/2.2bef21de.chunk.js.map": "/My-Text-analyzer/static/js/2.2bef21de.chunk.js.map",
+    "static/js/3.e33b8d7a.chunk.js": "/My-Text-analyzer/static/js/3.e33b8d7a.chunk.js",
+    "static/js/3.e33b8d7a.chunk.js.map": "/My-Text-analyzer/static/js/3.e33b8d7a.chunk.js.map",
+    "index.html": "/My-Text-analyzer/index.html",
+    "static/css/main.c87c6974.chunk.css.map": "/My-Text-analyzer/static/css/main.c87c6974.chunk.css.map",
+    "static/js/2.2bef21de.chunk.js.LICENSE.txt": "/My-Text-analyzer/static/js/2.2bef21de.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/My-Text-analyzer/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.616ba6c5.js",
+    "static/js/runtime-main.1b3f993a.js",
     "static/js/2.2bef21de.chunk.js",
     "static/css/main.c87c6974.chunk.css",
     "static/js/main.ae3c14d4.chunk.js"
